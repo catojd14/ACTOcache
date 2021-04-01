@@ -1,2 +1,2 @@
 # ACTOcache
-Cache class
+Test class
