@@ -10,6 +10,7 @@ Users should also be able to set the cache expiry, but your default expiry shoul
  */
 
 class Cache {
+    private $_salt = "change_it";
     private $_name;
     private $_dir;
     private $_extension;
